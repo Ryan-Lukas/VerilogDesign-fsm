@@ -1,4 +1,4 @@
-module SequentialCircuit(Switch, Button,Clock, Q);
+module SequentialCircuit(Switch, Button, Clock, Q);
 input [1:0] Switch, Button;
 input Clock;
 output[3:0] Q;
